@@ -1,10 +1,13 @@
-Hellow Friend.
+# Hellow Friend.
 
 IonTemplate: This is a IonicFramework Template made for you!
 
-Functions and features
+## About
+This ionic template is made for hybrid mobile applications based on HTML5 - CSS3 - JS - AngularJS - **The powerful** IonicFramework.
 
-Authentication (Sign In, Sign Out, Forget Password)
-HTML managed with ion-view
-TabBar MainPage
-JS prepared for your validation
+## Functions and features
+
+* Authentication (Sign In, Sign Out, Forget Password).
+* HTML managed with ion-view for easy mod.
+* TabBar.
+* JS - prepared for your validation.
